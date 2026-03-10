@@ -5,6 +5,6 @@ Daftar nama anggota kelompok:
 2. Dzaki Haikal Buchari (251401050)
 
 Pembagian Tugas: 
-Soal 1 dikerjakan oleh Jesslyn Inggrid 
-Soal 2 dikerjakan oleh Jesslyn Inggrid 
-Soal 3 dikerjakan oleh Dzaki Haikal Buchari
+Soal 1 dikerjakan oleh Jesslyn Inggrid,  
+Soal 2 dikerjakan oleh Jesslyn Inggrid, 
+Soal 3 dikerjakan oleh Dzaki Haikal Buchari.
